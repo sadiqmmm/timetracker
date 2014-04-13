@@ -40,4 +40,4 @@ gem 'spring',        group: :development
 
 gem 'devise'
 gem 'will_paginate'
-gem 'puma'
+gem 'puma', '~> 2.8.2'
