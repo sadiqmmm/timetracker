@@ -3,23 +3,23 @@
 == Time Tracker Application 
 
 
-Company
-       -- Name
+1. Company
+..* Name
 
- User 
-     -- First Name
-     -- Last Name
-     -- Company
+2. User 
+..* First Name
+..* Last Name
+..* Company
 
-Project
-     -- Name
-     -- Company
-     -- Default Rate
+3. Project
+..* Name
+..* Company
+..* Default Rate
 
 
-Work
-   -- Project
-   -- User
-   -- Date Performed
-   -- Number of Hours
+4. Work
+..* Project
+..* User
+..* Date Performed
+..* Number of Hours
 
